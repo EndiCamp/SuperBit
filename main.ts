@@ -218,7 +218,8 @@ namespace SuperBit {
          
     //%     if (!yahStrip) {
     //%       yahStrip = neopixel.create(DigitalPin.P12, 4, NeoPixelMode.RGB);
-        }
+       
+    //%}
     //%   return yahStrip;  
     //%} 
     
