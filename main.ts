@@ -51,6 +51,7 @@ namespace SuperBit {
         B1 = 0x1,
         B2 = 0x2
     }
+    
     export enum enPos { 
         //% blockId="forward" block="forward"
         forward = 1,
