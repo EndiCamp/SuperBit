@@ -1,6 +1,6 @@
-# SuperBit
+# SuperBit Camp
 
-Extension for Yahboom SuperBit V1.0
+Extension SuperBit MeowBit V1.0
 
 ## License
 
