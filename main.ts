@@ -42,7 +42,30 @@ namespace SuperBit {
     let initialized = false
     
 
-   
+    export enum enMusic {
+
+        dadadum = 0,
+        entertainer,
+        prelude,
+        ode,
+        nyan,
+        ringtone,
+        funk,
+        blues,
+
+        birthday,
+        wedding,
+        funereal,
+        punchline,
+        baddy,
+        chase,
+        ba_ding,
+        wawawawaa,
+        jump_up,
+        jump_down,
+        power_up,
+        power_down
+    }
    
     
 
