@@ -1,4 +1,4 @@
-# SuperBit Camp
+# SuperBitCamp
 
 Extension SuperBit MeowBit V1.0
 
